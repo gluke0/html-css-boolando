@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+html{
+    font-family: 'OpenSans', sans-serif;
+}
+
 img{
     display: block;
 }
