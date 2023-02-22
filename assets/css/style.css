@@ -104,6 +104,34 @@ li > a{
     width: 32.5%;
 }
 
+/* etichette */
+.red{
+    padding: 3px 7px;
+    color: white;
+    background-color: red;
+}
+
+.green{
+    padding: 3px 7px;
+    color: white;
+    background-color: green;
+}
+
+.b-left{
+    bottom: 7%;
+}
+
+/* hearts */
+.box{
+    padding: 3px 7px;
+    background-color: white;
+}
+
+.t-right{
+    top: 2%;
+    right: 0;
+}
+
 /* footer */
 footer, span > a{
     color: white;
