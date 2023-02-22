@@ -35,6 +35,11 @@ ul{
     justify-content: space-between;
 }
 
+.w-80{
+    width: 80%;
+    margin: 0 auto;
+}
+
 /* header */
 header{
 
@@ -47,6 +52,7 @@ nav{
     left: 0;
     right: 0;
     padding: 0 10%;
+    z-index: 999999;
 }
 
 #logo{
@@ -72,3 +78,28 @@ li > a{
 }
 
 /* main */
+
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.onetwothree{
+    margin-top: 70px;
+}
+
+.fourfivesix{
+    margin-top: 30px;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.card-size{
+    width: 32.5%;
+}
+
