@@ -174,3 +174,9 @@ h6{
     margin-bottom: 4px;
 }
 
+/* hover */
+
+.box:hover{
+    color: red;
+    cursor: pointer;
+}
