@@ -112,3 +112,17 @@ footer, span > a{
     background-color: rgb(26, 26, 26);
     padding: 2% 0;
 }
+
+.legali > span > a{
+    font-size: 10px;
+    margin-right: 5px;
+}
+
+h4{
+    margin-bottom: 0px;
+}
+
+h6{
+    margin-bottom: 4px;
+}
+
