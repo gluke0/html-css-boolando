@@ -175,8 +175,18 @@ h6{
 }
 
 /* hover */
-
 .box:hover{
     color: red;
-    cursor: pointer;
+}
+
+.imghover{
+    display: none;
+}
+
+.relative:hover img{
+    display: none;
+}
+
+.relative:hover img.imghover{
+    display: block;
 }
