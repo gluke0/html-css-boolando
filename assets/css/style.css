@@ -12,6 +12,63 @@ html{
     font-family: 'OpenSans', sans-serif;
 }
 
+/* utiliy */
 img{
     display: block;
 }
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.jf-sb{
+    justify-content: space-between;
+}
+
+/* header */
+header{
+
+}
+
+nav{
+    background-color: rgb(238, 113, 46);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 0 10%;
+}
+
+#logo{
+    max-width: 120px;
+    padding: 15px 0;
+    margin: 0 auto;
+}
+
+li > a, a > i{
+    color: white;
+}
+
+li > a{
+    margin-right: 5px;
+}
+
+.profile{
+    align-items: center;
+}
+
+.profile > a{
+    margin-left: 2.5px;
+}
+
+/* main */
