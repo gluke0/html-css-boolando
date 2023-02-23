@@ -175,6 +175,8 @@ h6{
     color: red;
 }
 
+/* per cambiare colore solo a cuore il paddin lo do al div con absolute e poi targetizzo il cuore con hover*/
+
 .imghover{
     display: none;
 }
